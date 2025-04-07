@@ -1,0 +1,8 @@
+Navn        Kategori        Beskrivelse                             Farge
+Påskeegg    Symbol          Dekorert egg fylt med godteri           Gul
+Kvikklunsj  Mat             Populær sjokolade i påsken              Rød
+Skitur      Aktivitet       Tradisjonell påskeaktivitet             Hvit
+Påskelilje  Blomst          Vanlig blomst i påsketider              Gul
+Lammegryte  Mat             Typisk påskemiddag                      Brun
+Kors        Symbol          Kristen symbolikk i påsken              Gull
+Krim        Underholdning   Påskekrim er en norsk tradisjon         Svart

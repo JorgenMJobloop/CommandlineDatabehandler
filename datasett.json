@@ -1,0 +1,44 @@
+[
+    {
+        "Navn": "Påskeegg",
+        "Kategori": "Symbol",
+        "Beskrivelse": "Dekorert egg fylt med godteri",
+        "Farge": "Gul"
+    },
+    {
+        "Navn": "Kvikklunsj",
+        "Kategori": "Mat",
+        "Beskrivelse": "Populær sjokolade i påsken",
+        "Farge": "Rød"
+    },
+    {
+        "Navn": "Skitur",
+        "Kategori": "Aktivitet",
+        "Beskrivelse": "Tradisjonell påskeaktivitet",
+        "Farge": "Hvit"
+    },
+    {
+        "Navn": "Påskelilje",
+        "Kategori": "Blomst",
+        "Beskrivelse": "Vanlig blomst i påsketider",
+        "Farge": "Gul"
+    },
+    {
+        "Navn": "Lammegryte",
+        "Kategori": "Mat",
+        "Beskrivelse": "Typisk påskemiddag",
+        "Farge": "Brun"
+    },
+    {
+        "Navn": "Kors",
+        "Kategori": "Symbol",
+        "Beskrivelse": "Kristen symbolikk i påsken",
+        "Farge": "Gull"
+    },
+    {
+        "Navn": "Krim",
+        "Kategori": "Underholdning",
+        "Beskrivelse": "Påskekrim er en norsk tradisjon",
+        "Farge": "Svart"
+    }
+]
